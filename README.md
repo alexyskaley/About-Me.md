@@ -1,5 +1,3 @@
-This repository is information about me. 
-
 ### About 
 Growing up, the island of Oʻahu gave me the opportunity to grow in a diverse and giving community, allowing me to evolve personally, professionally, and emotionally. With that, I made it my life goal to give back to the island and state, focusing on giving back through local businesses and people to empower present generations to grant experiences to future generations.
 
@@ -11,3 +9,10 @@ With my technical and professional skills that I have acquired through the years
 
 ### Summary
 I am looking for an entry-level position in IT, cybersecurity, risk analyst operations, either temporarily or permanently. I am currently working for the Hawaiʻi State Senate as I am highly interested in working for a state or government position. Overall, I am just looking for experience that can lead me in the right direction. 
+
+
+### Contact Me!
+- Phone: 808-321-6500
+- Email: akcguillermo@gmail.com
+- LinkedIn: www.linkedin.com/in/alexyskcg
+- GitHub: https://github.com/alexyskaley/About-Me.md.git
