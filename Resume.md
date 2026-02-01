@@ -51,6 +51,8 @@ Shidler College of Business, University of Hawaiʻi at Mānoa | Honolulu, HI
 
 GPA: 3.81 | Dean’s List 
 
+Updates: I am currently awaiting the arrival of my diploma. 
+
 
 ##### Projects
 - Personal Security Plan — Developed a personal cybersecurity and risk mitigation plan as part of coursework.  
