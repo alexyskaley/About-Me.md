@@ -13,33 +13,33 @@ BBA candidate in Management Information Systems (GPA 3.81) with hands-on experie
 - Certifications: CompTIA Security+, Food Safety Handling, Driver’s License
 
 ##### Experience
-- Data Entry Clerk — Session Hire (Jan 2026 – Present)
+**Data Entry Clerk — Session Hire** (Jan 2026 – Present)
 
-    Hawaiʻi State Senate, Senate Clerk’s Office | Honolulu, HI 
+	Hawaiʻi State Senate, Senate Clerk’s Office | Honolulu, HI 
   - Process and update legislative records and internal tracking systems to ensure accurate recordkeeping and reliable retrieval.  
   - Enter high volumes of sensitive data with strong attention to accuracy and confidentiality.  
   - Identify and correct data inconsistencies and follow established procedures in a fast-paced legislative environment.
 
 
-- Retail Supervisor (Jun 2024 – Jan 2026)
+**Retail Supervisor** (Jun 2024 – Jan 2026)
 
-    Tanioka’s Seafood and Catering | Waipahu, HI 
+	Tanioka’s Seafood and Catering | Waipahu, HI 
   - Supervised a team of 20 staff to ensure timely food preparation and order fulfillment while maintaining high customer service standards.  
   - Delegated tasks and organized shift schedules to optimize throughput and reduce customer wait times.  
   - Performed quality control checks to ensure order accuracy and compliance with food safety guidelines.
 
 
-- Delivery Driver / Wedding Attendant (Feb 2024 – Jan 2026)
+**Delivery Driver / Wedding Attendant** (Feb 2024 – Jan 2026)
 
-    Tanioka’s Seafood and Catering | Waipahu, HI 
+	Tanioka’s Seafood and Catering | Waipahu, HI 
   - Coordinated timely deliveries and event drop-offs, communicating professionally with guests and vendors.  
   - Managed logistical changes and adhered to traffic and safety regulations while maintaining timely service.  
   - Supported on-site event needs to help ensure successful customer experiences.
 
 
-- Tools for the Information World — Assistant Teaching Assistant (Aug 2023 – Dec 2023)
+**Tools for the Information World — Assistant Teaching Assistant** (Aug 2023 – Dec 2023)
 
-  University of Hawaiʻi at Mānoa | Honolulu, HI 
+ 	University of Hawaiʻi at Mānoa | Honolulu, HI 
   - Supported large lectures by assisting students with course content and clarifying concepts during class.  
   - Provided weekly one-on-one tutoring sessions to address learning challenges and reinforce coursework.  
   - Contributed to a reported 25% increase in student retention through encouragement and targeted feedback.
@@ -51,7 +51,7 @@ Shidler College of Business, University of Hawaiʻi at Mānoa | Honolulu, HI
 
 GPA: 3.81 | Dean’s List 
 
-Updates: I am currently awaiting the arrival of my diploma. 
+**Updates:** I am currently awaiting the arrival of my diploma. 
 
 
 ##### Projects
