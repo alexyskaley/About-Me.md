@@ -65,6 +65,6 @@ GPA: 3.81 | Dean’s List
 - Member | Information Technology Management Association (Sep 2023 – Dec 2023) 
   Engaged with IT professionals to deepen understanding of the intersection between technology and business.
 
-#### Additional
+### Additional
 - References available upon request
 - Career Interests: Project Management, Network Administration, Operations  
