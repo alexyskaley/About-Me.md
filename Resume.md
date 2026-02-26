@@ -17,7 +17,7 @@ BBA candidate in Management Information Systems (GPA 3.81) with hands-on experie
   
   Hawaiʻi State Senate, Senate Clerk’s Office | Honolulu, HI 
   - Process and update legislative records and internal tracking systems to ensure accurate recordkeeping and reliable retrieval.  
-  - Enter high volumes of sensitive data with strong attention to accuracy and confidentiality.  
+  - Enter high volumes of sensitive data with strong attention to accuracy and confidentiality for senators and public. 
   - Identify and correct data inconsistencies and follow established procedures in a fast-paced legislative environment.
 
 
