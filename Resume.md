@@ -66,5 +66,5 @@ GPA: 3.81 | Dean’s List
   Engaged with IT professionals to deepen understanding of the intersection between technology and business.
 
 ### Additional
-- References available upon request
+- Transcript & References available upon request
 - Career Interests: Project Management, Network Administration, Operations  
