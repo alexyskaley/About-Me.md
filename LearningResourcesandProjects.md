@@ -7,8 +7,10 @@
 - Notebook LM
 - Professor Messer (YouTube)
 
-#### Project Management Professional (PMP) Certification (Planning to take by end of 2026)
-- https://www.project-management-prepcast.com/free/pmp-exam
+#### CompTIA CySA+ (Planning to take by 2026)
+- CySA+ Study Guide Book
+- Outdated Study Guide 
+  - https://docs.google.com/document/d/1_ipUc1Ge8ro5BnWL_eP77K_UPlzJ8bpb4mxwBaNijQw/edit?tab=t.0#heading=h.6lk3jntvwb8t 
 
 
 #### SQL 
