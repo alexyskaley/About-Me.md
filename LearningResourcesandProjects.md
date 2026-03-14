@@ -26,3 +26,11 @@
 #### ICS 101 Project 
 
 - https://www2.hawaii.edu/~alexys/me/index.html
+
+
+## Other
+
+#### Language Learning
+- Japanese, Hawaiian
+  - Duolingo
+  - Social Media
